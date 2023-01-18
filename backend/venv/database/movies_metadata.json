@@ -1,0 +1,695 @@
+[
+    {
+        "Film": "Zack and Miri Make a Porno",
+        "Genre": "Romance",
+        "Lead Studio": "The Weinstein Company",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "25610",
+        "date": "20.10.2023"
+    },
+    {
+        "Film": "Youth in Revolt",
+        "Genre": "Comedy",
+        "Lead Studio": "The Weinstein Company",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "26740",
+        "date": "2.8.2023"
+    },
+    {
+        "Film": "You Will Meet a Tall Dark Stranger",
+        "Genre": "Comedy",
+        "Lead Studio": "Independent",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "18410",
+        "date": "9.4.2023"
+    },
+    {
+        "Film": "When in Rome",
+        "Genre": "Comedy",
+        "Lead Studio": "Disney",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "25510",
+        "date": "3.9.2023"
+    },
+    {
+        "Film": "What Happens in Vegas",
+        "Genre": "Comedy",
+        "Lead Studio": "Fox",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "17830",
+        "date": "10.8.2023"
+    },
+    {
+        "Film": "Water For Elephants",
+        "Genre": "Drama",
+        "Lead Studio": "20th Century Fox",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "16100",
+        "date": "3.9.2023"
+    },
+    {
+        "Film": "WALL-E",
+        "Genre": "Animation",
+        "Lead Studio": "Disney",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "29280",
+        "date": "3.11.2023"
+    },
+    {
+        "Film": "Waitress",
+        "Genre": "Romance",
+        "Lead Studio": "Independent",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "15980",
+        "date": "18.4.2023"
+    },
+    {
+        "Film": "Waiting For Forever",
+        "Genre": "Romance",
+        "Lead Studio": "Independent",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "27880",
+        "date": "11.4.2023"
+    },
+    {
+        "Film": "Valentine's Day",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "22830",
+        "date": "8.6.2023"
+    },
+    {
+        "Film": "Tyler Perry's Why Did I get Married",
+        "Genre": "Romance",
+        "Lead Studio": "Independent",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "24840",
+        "date": "7.8.2023"
+    },
+    {
+        "Film": "Twilight: Breaking Dawn",
+        "Genre": "Romance",
+        "Lead Studio": "Independent",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "16940",
+        "date": "7.11.2023"
+    },
+    {
+        "Film": "Twilight",
+        "Genre": "Romance",
+        "Lead Studio": "Summit",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "29870",
+        "date": "4.2.2023"
+    },
+    {
+        "Film": "The Ugly Truth",
+        "Genre": "Comedy",
+        "Lead Studio": "Independent",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "20270",
+        "date": "4.7.2023"
+    },
+    {
+        "Film": "The Twilight Saga: New Moon",
+        "Genre": "Drama",
+        "Lead Studio": "Summit",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "17120",
+        "date": "6.2.2023"
+    },
+    {
+        "Film": "The Time Traveler's Wife",
+        "Genre": "Drama",
+        "Lead Studio": "Paramount",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "24760",
+        "date": "4.10.2023"
+    },
+    {
+        "Film": "The Proposal",
+        "Genre": "Comedy",
+        "Lead Studio": "Disney",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "24970",
+        "date": "18.1.2023"
+    },
+    {
+        "Film": "The Invention of Lying",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "27660",
+        "date": "23.11.2023"
+    },
+    {
+        "Film": "The Heartbreak Kid",
+        "Genre": "Comedy",
+        "Lead Studio": "Paramount",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "20150",
+        "date": "4.7.2023"
+    },
+    {
+        "Film": "The Duchess",
+        "Genre": "Drama",
+        "Lead Studio": "Paramount",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "19320",
+        "date": "12.6.2023"
+    },
+    {
+        "Film": "The Curious Case of Benjamin Button",
+        "Genre": "Fantasy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "24850",
+        "date": "9.2.2023"
+    },
+    {
+        "Film": "The Back-up Plan",
+        "Genre": "Comedy",
+        "Lead Studio": "CBS",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "15800",
+        "date": "6.9.2023"
+    },
+    {
+        "Film": "Tangled",
+        "Genre": "Animation",
+        "Lead Studio": "Disney",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "19210",
+        "date": "25.11.2023"
+    },
+    {
+        "Film": "Something Borrowed",
+        "Genre": "Romance",
+        "Lead Studio": "Independent",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "17950",
+        "date": "3.5.2023"
+    },
+    {
+        "Film": "She's Out of My League",
+        "Genre": "Comedy",
+        "Lead Studio": "Paramount",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "21480",
+        "date": "16.3.2023"
+    },
+    {
+        "Film": "Sex and the City Two",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "29410",
+        "date": "21.8.2023"
+    },
+    {
+        "Film": "Sex and the City 2",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "23550",
+        "date": "18.8.2023"
+    },
+    {
+        "Film": "Sex and the City",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "22290",
+        "date": "1.5.2023"
+    },
+    {
+        "Film": "Remember Me",
+        "Genre": "Drama",
+        "Lead Studio": "Summit",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "26450",
+        "date": "15.3.2023"
+    },
+    {
+        "Film": "Rachel Getting Married",
+        "Genre": "Drama",
+        "Lead Studio": "Independent",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "29460",
+        "date": "26.10.2023"
+    },
+    {
+        "Film": "Penelope",
+        "Genre": "Comedy",
+        "Lead Studio": "Summit",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "16000",
+        "date": "11.7.2023"
+    },
+    {
+        "Film": "P.S. I Love You",
+        "Genre": "Romance",
+        "Lead Studio": "Independent",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "27110",
+        "date": "19.4.2023"
+    },
+    {
+        "Film": "Over Her Dead Body",
+        "Genre": "Comedy",
+        "Lead Studio": "New Line",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "22580",
+        "date": "14.11.2023"
+    },
+    {
+        "Film": "Our Family Wedding",
+        "Genre": "Comedy",
+        "Lead Studio": "Independent",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "20750",
+        "date": "16.2.2023"
+    },
+    {
+        "Film": "One Day",
+        "Genre": "Romance",
+        "Lead Studio": "Independent",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "26310",
+        "date": "9.11.2023"
+    },
+    {
+        "Film": "Not Easily Broken",
+        "Genre": "Drama",
+        "Lead Studio": "Independent",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "26680",
+        "date": "26.4.2023"
+    },
+    {
+        "Film": "No Reservations",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "23440",
+        "date": "23.3.2023"
+    },
+    {
+        "Film": "Nick and Norah's Infinite Playlist",
+        "Genre": "Comedy",
+        "Lead Studio": "Sony",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "18230",
+        "date": "25.11.2023"
+    },
+    {
+        "Film": "New Year's Eve",
+        "Genre": "Romance",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "25100",
+        "date": "12.7.2023"
+    },
+    {
+        "Film": "My Week with Marilyn",
+        "Genre": "Drama",
+        "Lead Studio": "The Weinstein Company",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "19060",
+        "date": "12.7.2023"
+    },
+    {
+        "Film": "Music and Lyrics",
+        "Genre": "Romance",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "23020",
+        "date": "7.6.2023"
+    },
+    {
+        "Film": "Monte Carlo",
+        "Genre": "Romance",
+        "Lead Studio": "20th Century Fox",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "17690",
+        "date": "17.11.2023"
+    },
+    {
+        "Film": "Miss Pettigrew Lives for a Day",
+        "Genre": "Comedy",
+        "Lead Studio": "Independent",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "16030",
+        "date": "2.7.2023"
+    },
+    {
+        "Film": "Midnight in Paris",
+        "Genre": "Romence",
+        "Lead Studio": "Sony",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "16630",
+        "date": "14.1.2023"
+    },
+    {
+        "Film": "Marley and Me",
+        "Genre": "Comedy",
+        "Lead Studio": "Fox",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "18970",
+        "date": "19.4.2023"
+    },
+    {
+        "Film": "Mamma Mia!",
+        "Genre": "Comedy",
+        "Lead Studio": "Universal",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "18660",
+        "date": "14.8.2023"
+    },
+    {
+        "Film": "Mamma Mia!",
+        "Genre": "Comedy",
+        "Lead Studio": "Universal",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "15490",
+        "date": "5.8.2023"
+    },
+    {
+        "Film": "Made of Honor",
+        "Genre": "Comdy",
+        "Lead Studio": "Sony",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "18170",
+        "date": "3.8.2023"
+    },
+    {
+        "Film": "Love Happens",
+        "Genre": "Drama",
+        "Lead Studio": "Universal",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "28780",
+        "date": "2.9.2023"
+    },
+    {
+        "Film": "Love & Other Drugs",
+        "Genre": "Comedy",
+        "Lead Studio": "Fox",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "18490",
+        "date": "10.6.2023"
+    },
+    {
+        "Film": "Life as We Know It",
+        "Genre": "Comedy",
+        "Lead Studio": "Independent",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "15570",
+        "date": "19.10.2023"
+    },
+    {
+        "Film": "License to Wed",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "25980",
+        "date": "26.4.2023"
+    },
+    {
+        "Film": "Letters to Juliet",
+        "Genre": "Comedy",
+        "Lead Studio": "Summit",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "26390",
+        "date": "19.5.2023"
+    },
+    {
+        "Film": "Leap Year",
+        "Genre": "Comedy",
+        "Lead Studio": "Universal",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "20430",
+        "date": "25.1.2023"
+    },
+    {
+        "Film": "Knocked Up",
+        "Genre": "Comedy",
+        "Lead Studio": "Universal",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "23550",
+        "date": "17.4.2023"
+    },
+    {
+        "Film": "Killers",
+        "Genre": "Action",
+        "Lead Studio": "Lionsgate",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "23440",
+        "date": "13.10.2023"
+    },
+    {
+        "Film": "Just Wright",
+        "Genre": "Comedy",
+        "Lead Studio": "Fox",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "21970",
+        "date": "1.1.2023"
+    },
+    {
+        "Film": "Jane Eyre",
+        "Genre": "Romance",
+        "Lead Studio": "Universal",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "18850",
+        "date": "1.8.2023"
+    },
+    {
+        "Film": "It's Complicated",
+        "Genre": "Comedy",
+        "Lead Studio": "Universal",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "28320",
+        "date": "4.3.2023"
+    },
+    {
+        "Film": "I Love You Phillip Morris",
+        "Genre": "Comedy",
+        "Lead Studio": "Independent",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "15920",
+        "date": "16.8.2023"
+    },
+    {
+        "Film": "High School Musical 3: Senior Year",
+        "Genre": "Comedy",
+        "Lead Studio": "Disney",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "29760",
+        "date": "9.5.2023"
+    },
+    {
+        "Film": "He's Just Not That Into You",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "22820",
+        "date": "21.1.2023"
+    },
+    {
+        "Film": "Good Luck Chuck",
+        "Genre": "Comedy",
+        "Lead Studio": "Lionsgate",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "22320",
+        "date": "8.5.2023"
+    },
+    {
+        "Film": "Going the Distance",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "19420",
+        "date": "19.3.2023"
+    },
+    {
+        "Film": "Gnomeo and Juliet",
+        "Genre": "Animation",
+        "Lead Studio": "Disney",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "20670",
+        "date": "22.1.2023"
+    },
+    {
+        "Film": "Gnomeo and Juliet",
+        "Genre": "Animation",
+        "Lead Studio": "Disney",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "28530",
+        "date": "23.5.2023"
+    },
+    {
+        "Film": "Ghosts of Girlfriends Past",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "23740",
+        "date": "8.11.2023"
+    },
+    {
+        "Film": "Four Christmases",
+        "Genre": "Comedy",
+        "Lead Studio": "Warner Bros.",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "17820",
+        "date": "8.3.2023"
+    },
+    {
+        "Film": "Fireproof",
+        "Genre": "Drama",
+        "Lead Studio": "Independent",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "26620",
+        "date": "9.10.2023"
+    },
+    {
+        "Film": "Enchanted",
+        "Genre": "Comedy",
+        "Lead Studio": "Disney",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "24210",
+        "date": "24.10.2023"
+    },
+    {
+        "Film": "Dear John",
+        "Genre": "Drama",
+        "Lead Studio": "Sony",
+        "Year": "2010",
+        "Ticket price": "100",
+        "Number of tickets": "22400",
+        "date": "21.11.2023"
+    },
+    {
+        "Film": "Beginners",
+        "Genre": "Comedy",
+        "Lead Studio": "Independent",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "29960",
+        "date": "16.11.2023"
+    },
+    {
+        "Film": "Across the Universe",
+        "Genre": "romance",
+        "Lead Studio": "Independent",
+        "Year": "2007",
+        "Ticket price": "100",
+        "Number of tickets": "20930",
+        "date": "14.2.2023"
+    },
+    {
+        "Film": "A Serious Man",
+        "Genre": "Drama",
+        "Lead Studio": "Universal",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "29930",
+        "date": "2.6.2023"
+    },
+    {
+        "Film": "A Dangerous Method",
+        "Genre": "Drama",
+        "Lead Studio": "Independent",
+        "Year": "2011",
+        "Ticket price": "100",
+        "Number of tickets": "22670",
+        "date": "6.4.2023"
+    },
+    {
+        "Film": "27 Dresses",
+        "Genre": "Comedy",
+        "Lead Studio": "Fox",
+        "Year": "2008",
+        "Ticket price": "100",
+        "Number of tickets": "23870",
+        "date": "12.1.2023"
+    },
+    {
+        "Film": "(500) Days of Summer",
+        "Genre": "comedy",
+        "Lead Studio": "Fox",
+        "Year": "2009",
+        "Ticket price": "100",
+        "Number of tickets": "15530",
+        "date": "11.6.2023"
+    }
+]

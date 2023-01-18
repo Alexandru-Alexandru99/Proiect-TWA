@@ -1,0 +1,2662 @@
+[
+    {
+        "Date": "Sat Sep 12 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "18490"
+    },
+    {
+        "Date": "Sat Sep 12 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "19420"
+    },
+    {
+        "Date": "Sat Sep 12 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "19640"
+    },
+    {
+        "Date": "Sat Sep 12 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "26270"
+    },
+    {
+        "Date": "Sat Sep 12 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "18520"
+    },
+    {
+        "Date": "Sat Sep 12 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16000"
+    },
+    {
+        "Date": "Sun Sep 13 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "17590"
+    },
+    {
+        "Date": "Sun Sep 13 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "21360"
+    },
+    {
+        "Date": "Mon Sep 14 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "20430"
+    },
+    {
+        "Date": "Mon Sep 14 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "20630"
+    },
+    {
+        "Date": "Sat Sep 19 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "27820"
+    },
+    {
+        "Date": "Sat Sep 19 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "22150"
+    },
+    {
+        "Date": "Sat Sep 19 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "28360"
+    },
+    {
+        "Date": "Sat Sep 19 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "25460"
+    },
+    {
+        "Date": "Sun Sep 20 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "24660"
+    },
+    {
+        "Date": "Sun Sep 20 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "22760"
+    },
+    {
+        "Date": "Sun Sep 20 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "26960"
+    },
+    {
+        "Date": "Sun Sep 20 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "16250"
+    },
+    {
+        "Date": "Mon Sep 21 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24120"
+    },
+    {
+        "Date": "Mon Sep 21 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "24970"
+    },
+    {
+        "Date": "Sat Sep 26 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "18390"
+    },
+    {
+        "Date": "Sat Sep 26 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "16410"
+    },
+    {
+        "Date": "Sat Sep 26 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "25520"
+    },
+    {
+        "Date": "Sat Sep 26 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "20770"
+    },
+    {
+        "Date": "Sun Sep 27 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22860"
+    },
+    {
+        "Date": "Sun Sep 27 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15840"
+    },
+    {
+        "Date": "Sun Sep 27 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "26560"
+    },
+    {
+        "Date": "Sun Sep 27 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "15270"
+    },
+    {
+        "Date": "Mon Sep 28 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "16170"
+    },
+    {
+        "Date": "Mon Sep 28 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "25250"
+    },
+    {
+        "Date": "Sat Oct 3 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "15760"
+    },
+    {
+        "Date": "Sat Oct 3 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "22770"
+    },
+    {
+        "Date": "Sat Oct 3 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "23250"
+    },
+    {
+        "Date": "Sat Oct 3 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "15790"
+    },
+    {
+        "Date": "Sun Oct 4 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "28340"
+    },
+    {
+        "Date": "Sun Oct 4 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "21470"
+    },
+    {
+        "Date": "Sun Oct 4 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22700"
+    },
+    {
+        "Date": "Sun Oct 4 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "24620"
+    },
+    {
+        "Date": "Sun Oct 4 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "27090"
+    },
+    {
+        "Date": "Sun Oct 4 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "23510"
+    },
+    {
+        "Date": "Sat Oct 17 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "15490"
+    },
+    {
+        "Date": "Sat Oct 17 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "15890"
+    },
+    {
+        "Date": "Sat Oct 17 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "18960"
+    },
+    {
+        "Date": "Sat Oct 17 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "17580"
+    },
+    {
+        "Date": "Sun Oct 18 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "23440"
+    },
+    {
+        "Date": "Sun Oct 18 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "27310"
+    },
+    {
+        "Date": "Sun Oct 18 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "29600"
+    },
+    {
+        "Date": "Sun Oct 18 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "19260"
+    },
+    {
+        "Date": "Mon Oct 19 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "21500"
+    },
+    {
+        "Date": "Mon Oct 19 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "16290"
+    },
+    {
+        "Date": "Fri Oct 23 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "28410"
+    },
+    {
+        "Date": "Sat Oct 24 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "18060"
+    },
+    {
+        "Date": "Sat Oct 24 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "19520"
+    },
+    {
+        "Date": "Sat Oct 24 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "26040"
+    },
+    {
+        "Date": "Sat Oct 24 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22750"
+    },
+    {
+        "Date": "Sun Oct 25 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "17170"
+    },
+    {
+        "Date": "Sun Oct 25 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22680"
+    },
+    {
+        "Date": "Sun Oct 25 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "29230"
+    },
+    {
+        "Date": "Mon Oct 26 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "28380"
+    },
+    {
+        "Date": "Mon Oct 26 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "17380"
+    },
+    {
+        "Date": "Fri Oct 30 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "18570"
+    },
+    {
+        "Date": "Sat Oct 31 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "18450"
+    },
+    {
+        "Date": "Sat Oct 31 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "28830"
+    },
+    {
+        "Date": "Sat Oct 31 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "28620"
+    },
+    {
+        "Date": "Sun Nov 1 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "20150"
+    },
+    {
+        "Date": "Sun Nov 1 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "17100"
+    },
+    {
+        "Date": "Sun Nov 1 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "23020"
+    },
+    {
+        "Date": "Sun Nov 1 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "25170"
+    },
+    {
+        "Date": "Mon Nov 2 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "28320"
+    },
+    {
+        "Date": "Mon Nov 2 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "15960"
+    },
+    {
+        "Date": "Fri Nov 6 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "28660"
+    },
+    {
+        "Date": "Fri Nov 6 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "26320"
+    },
+    {
+        "Date": "Sat Nov 7 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "23560"
+    },
+    {
+        "Date": "Sat Nov 7 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "25360"
+    },
+    {
+        "Date": "Sat Nov 7 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22640"
+    },
+    {
+        "Date": "Sat Nov 7 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "25970"
+    },
+    {
+        "Date": "Sun Nov 8 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "28030"
+    },
+    {
+        "Date": "Sun Nov 8 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "22990"
+    },
+    {
+        "Date": "Sun Nov 8 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "18350"
+    },
+    {
+        "Date": "Sun Nov 8 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "29770"
+    },
+    {
+        "Date": "Sat Nov 21 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "28420"
+    },
+    {
+        "Date": "Sat Nov 21 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "20780"
+    },
+    {
+        "Date": "Sat Nov 21 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "19690"
+    },
+    {
+        "Date": "Sat Nov 21 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "21720"
+    },
+    {
+        "Date": "Sun Nov 22 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "23860"
+    },
+    {
+        "Date": "Sun Nov 22 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24400"
+    },
+    {
+        "Date": "Sun Nov 22 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "21290"
+    },
+    {
+        "Date": "Sun Nov 22 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "20180"
+    },
+    {
+        "Date": "Mon Nov 23 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "23590"
+    },
+    {
+        "Date": "Mon Nov 23 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "25360"
+    },
+    {
+        "Date": "Sat Nov 28 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "15550"
+    },
+    {
+        "Date": "Sat Nov 28 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "22280"
+    },
+    {
+        "Date": "Sat Nov 28 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "23460"
+    },
+    {
+        "Date": "Sat Nov 28 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "29840"
+    },
+    {
+        "Date": "Sat Nov 28 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "28170"
+    },
+    {
+        "Date": "Sat Nov 28 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "18010"
+    },
+    {
+        "Date": "Sat Nov 28 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "28990"
+    },
+    {
+        "Date": "Sun Nov 29 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15480"
+    },
+    {
+        "Date": "Sun Nov 29 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "26610"
+    },
+    {
+        "Date": "Mon Nov 30 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "17670"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "29350"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "21060"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "27150"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21810"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "16330"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "27540"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "23010"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "23740"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "26140"
+    },
+    {
+        "Date": "Sat Dec 5 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21150"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "25710"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "19160"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "15070"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "24690"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "20300"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "15590"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "15270"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "17410"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21460"
+    },
+    {
+        "Date": "Sat Dec 12 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "22490"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "27800"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "23340"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "20690"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "18900"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "18080"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "20240"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "23470"
+    },
+    {
+        "Date": "Tue Dec 15 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "21320"
+    },
+    {
+        "Date": "Wed Dec 16 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "22720"
+    },
+    {
+        "Date": "Wed Dec 16 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "28190"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "27560"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "15690"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24140"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "15310"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "23470"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "19180"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "20010"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "23720"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "18310"
+    },
+    {
+        "Date": "Sat Dec 19 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "19420"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "24860"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "15710"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Fulham FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "26480"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "28270"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "26810"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Liverpool FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "16460"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16960"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "21580"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "27340"
+    },
+    {
+        "Date": "Sat Dec 26 2023",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "28970"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "25960"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Burnley FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "27270"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "20260"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "24200"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Everton FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "26770"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "29710"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "17840"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Southampton FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15080"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "23700"
+    },
+    {
+        "Date": "Mon Dec 28 2023",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22370"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "20650"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "21570"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "18350"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "20820"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24940"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "29440"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "21440"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "28060"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "28340"
+    },
+    {
+        "Date": "Sat Jan 2 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "23180"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "17330"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "23360"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "20590"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "17480"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "22730"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "28660"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "21480"
+    },
+    {
+        "Date": "Tue Jan 12 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "15740"
+    },
+    {
+        "Date": "Wed Jan 13 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "22470"
+    },
+    {
+        "Date": "Wed Jan 13 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "22420"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16100"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "27050"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "18870"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "27640"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "22120"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "20090"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "16840"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "23010"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "16330"
+    },
+    {
+        "Date": "Sat Jan 16 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "15990"
+    },
+    {
+        "Date": "Tue Jan 26 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "17260"
+    },
+    {
+        "Date": "Tue Jan 26 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "17010"
+    },
+    {
+        "Date": "Tue Jan 26 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "17110"
+    },
+    {
+        "Date": "Tue Jan 26 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16470"
+    },
+    {
+        "Date": "Tue Jan 26 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "23410"
+    },
+    {
+        "Date": "Wed Jan 27 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "24540"
+    },
+    {
+        "Date": "Wed Jan 27 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15130"
+    },
+    {
+        "Date": "Wed Jan 27 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "17650"
+    },
+    {
+        "Date": "Wed Jan 27 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "23330"
+    },
+    {
+        "Date": "Wed Jan 27 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22050"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16170"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "21320"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "16480"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "26670"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15530"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15920"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21500"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "21770"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "16790"
+    },
+    {
+        "Date": "Sat Jan 30 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "19110"
+    },
+    {
+        "Date": "Tue Feb 2 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24340"
+    },
+    {
+        "Date": "Tue Feb 2 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "18410"
+    },
+    {
+        "Date": "Tue Feb 2 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "19030"
+    },
+    {
+        "Date": "Tue Feb 2 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "21900"
+    },
+    {
+        "Date": "Tue Feb 2 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "15800"
+    },
+    {
+        "Date": "Tue Feb 2 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "29530"
+    },
+    {
+        "Date": "Tue Feb 2 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "27620"
+    },
+    {
+        "Date": "Wed Feb 3 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "18830"
+    },
+    {
+        "Date": "Wed Feb 3 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "26910"
+    },
+    {
+        "Date": "Wed Feb 3 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "23310"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "18300"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "28330"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "20130"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "26150"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "20950"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "22010"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "20930"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "25120"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "17460"
+    },
+    {
+        "Date": "Sat Feb 6 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "27440"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "17300"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "27710"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16220"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "21780"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "24250"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "23070"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "23090"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "23900"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "19850"
+    },
+    {
+        "Date": "Sat Feb 13 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "17210"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "16750"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "25690"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "16570"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "28250"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "17820"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "29670"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22130"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "17790"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "16720"
+    },
+    {
+        "Date": "Sat Feb 20 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16980"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22410"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "26620"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "17700"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "19720"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "15350"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "19100"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "15890"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "20690"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "23880"
+    },
+    {
+        "Date": "Sat Feb 27 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "27060"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "27720"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "22950"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "21140"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "28670"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "24560"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "23540"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "15150"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "15340"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16090"
+    },
+    {
+        "Date": "Sat Mar 6 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "19900"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "20500"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "24520"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "27880"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "20720"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "22140"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "23490"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24740"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "26450"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "17020"
+    },
+    {
+        "Date": "Sat Mar 13 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "29810"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21770"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "21400"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15360"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21050"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "15970"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "20140"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "29690"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "18010"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "17620"
+    },
+    {
+        "Date": "Sat Mar 20 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "16390"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "19990"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "22780"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "16130"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "22910"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "23930"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "24820"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "15940"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "16960"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "24800"
+    },
+    {
+        "Date": "Sat Apr 3 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "19980"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "16750"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15800"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "28640"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "25300"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "17500"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16310"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "20520"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "16560"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "23030"
+    },
+    {
+        "Date": "Sat Apr 10 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "25190"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "17740"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "18230"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "26070"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "21550"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "24660"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "19770"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "23880"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21170"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "25260"
+    },
+    {
+        "Date": "Sat Apr 17 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "22280"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "29440"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "15860"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "15010"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "17010"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "25000"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "23200"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "17500"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "16550"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "22710"
+    },
+    {
+        "Date": "Sat Apr 24 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "18160"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "17760"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "21350"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "22920"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "21060"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "28650"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "28810"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "21280"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "18140"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "28440"
+    },
+    {
+        "Date": "Sat May 1 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "22550"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "25150"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "23770"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "19530"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "26960"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24890"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "20620"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "22230"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "18110"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "28280"
+    },
+    {
+        "Date": "Sat May 8 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "17130"
+    },
+    {
+        "Date": "Tue May 11 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "19010"
+    },
+    {
+        "Date": "Tue May 11 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "18960"
+    },
+    {
+        "Date": "Tue May 11 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "15690"
+    },
+    {
+        "Date": "Tue May 11 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "22320"
+    },
+    {
+        "Date": "Tue May 11 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "22010"
+    },
+    {
+        "Date": "Wed May 12 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "16020"
+    },
+    {
+        "Date": "Wed May 12 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "28860"
+    },
+    {
+        "Date": "Wed May 12 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "19920"
+    },
+    {
+        "Date": "Wed May 12 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "23950"
+    },
+    {
+        "Date": "Wed May 12 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "17580"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Brighton & Hove Albion FC",
+        "Team 2": "Manchester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "29670"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Burnley FC",
+        "Team 2": "Liverpool FC",
+        "Ticket price": "100",
+        "Number of tickets": "27920"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Chelsea FC",
+        "Team 2": "Leicester City FC",
+        "Ticket price": "100",
+        "Number of tickets": "25500"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Crystal Palace FC",
+        "Team 2": "Arsenal FC",
+        "Ticket price": "100",
+        "Number of tickets": "21260"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Everton FC",
+        "Team 2": "Wolverhampton Wanderers FC",
+        "Ticket price": "100",
+        "Number of tickets": "17040"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Manchester United FC",
+        "Team 2": "Fulham FC",
+        "Ticket price": "100",
+        "Number of tickets": "26760"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Newcastle United FC",
+        "Team 2": "Sheffield United FC",
+        "Ticket price": "100",
+        "Number of tickets": "23000"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Southampton FC",
+        "Team 2": "Leeds United FC",
+        "Ticket price": "100",
+        "Number of tickets": "27830"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "Tottenham Hotspur FC",
+        "Team 2": "Aston Villa FC",
+        "Ticket price": "100",
+        "Number of tickets": "24330"
+    },
+    {
+        "Date": "Sat May 15 2024",
+        "Team 1": "West Bromwich Albion FC",
+        "Team 2": "West Ham United FC",
+        "Ticket price": "100",
+        "Number of tickets": "19220"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Arsenal FC",
+        "Team 2": "Brighton & Hove Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "17550"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Aston Villa FC",
+        "Team 2": "Chelsea FC",
+        "Ticket price": "100",
+        "Number of tickets": "15440"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Fulham FC",
+        "Team 2": "Newcastle United FC",
+        "Ticket price": "100",
+        "Number of tickets": "18840"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Leeds United FC",
+        "Team 2": "West Bromwich Albion FC",
+        "Ticket price": "100",
+        "Number of tickets": "15210"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Leicester City FC",
+        "Team 2": "Tottenham Hotspur FC",
+        "Ticket price": "100",
+        "Number of tickets": "18060"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Liverpool FC",
+        "Team 2": "Crystal Palace FC",
+        "Ticket price": "100",
+        "Number of tickets": "28000"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Manchester City FC",
+        "Team 2": "Everton FC",
+        "Ticket price": "100",
+        "Number of tickets": "21940"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Sheffield United FC",
+        "Team 2": "Burnley FC",
+        "Ticket price": "100",
+        "Number of tickets": "28810"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "West Ham United FC",
+        "Team 2": "Southampton FC",
+        "Ticket price": "100",
+        "Number of tickets": "25070"
+    },
+    {
+        "Date": "Sun May 23 2024",
+        "Team 1": "Wolverhampton Wanderers FC",
+        "Team 2": "Manchester United FC",
+        "Ticket price": "100",
+        "Number of tickets": "24050"
+    }
+]
