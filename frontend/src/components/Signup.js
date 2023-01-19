@@ -29,7 +29,7 @@ export default function Signup() {
             .then(res => {
                 console.log(res);
                 localStorage.setItem("email", emailRef.current.value)
-                navigate('/shop');
+                navigate('/login');
             })
             .catch(err => {
                 console.log(err);

@@ -22,7 +22,37 @@ import MatchIcon from "../images/football.png"
 import CinemaIcon from "../images/movie.png"
 import TheatreIcon from "../images/theatre.png"
 
+import Snackbar from '@mui/material/Snackbar';
+import MuiAlert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
+
+const Alert = React.forwardRef(function Alert(props, ref) {
+    return <MuiAlert elevation={6} ref={ref} variant="filled" {...props} />;
+});
+
+
 export default function Shop() {
+    const [open, setOpen] = useState(false);
+    const [alertType, setAlertType] = useState('');
+    const [toastMessage, setToastMessage] = useState("");
+    const [errorTitle, setErrorTitle] = useState("");
+
+    function alertProperties(status, type, title, message) {
+        setOpen(false);
+        setOpen(status);
+        setAlertType(type);
+        setErrorTitle(title);
+        setToastMessage(message)
+    }
+
+    const handleClose = (event, reason) => {
+        if (reason === 'clickaway') {
+            return;
+        }
+
+        setOpen(false);
+    };
+
     const [value, setValue] = React.useState('1');
     const [matches, setMatches] = React.useState([]);
     const [cinema, setCinema] = React.useState([]);
@@ -49,6 +79,7 @@ export default function Shop() {
                 })
                 .catch(err => {
                     console.log(err);
+                    alertProperties(true, "error", "Error", "Forbidden Access!");
                 });
         }
     }
@@ -69,6 +100,7 @@ export default function Shop() {
                 })
                 .catch(err => {
                     console.log(err);
+                    alertProperties(true, "error", "Error", "Forbidden Access!");
                 });
         }
     }
@@ -89,6 +121,7 @@ export default function Shop() {
                 })
                 .catch(err => {
                     console.log(err);
+                    alertProperties(true, "error", "Error", "Forbidden Access!");
                 });
         }
     }
@@ -132,6 +165,7 @@ export default function Shop() {
                 })
                 .catch(err => {
                     console.log(err);
+                    alertProperties(true, "error", "Error", "Forbidden Access!");
                 });
         }
         if (newValue == 2) {
@@ -144,6 +178,7 @@ export default function Shop() {
                 })
                 .catch(err => {
                     console.log(err);
+                    alertProperties(true, "error", "Error", "Forbidden Access!");
                 });
         }
         if (newValue == 3) {
@@ -156,19 +191,26 @@ export default function Shop() {
                 })
                 .catch(err => {
                     console.log(err);
+                    alertProperties(true, "error", "Error", "Forbidden Access!");
                 });
         }
     };
     return (
         <>
+            <Snackbar open={open} autoHideDuration={6000} onClose={handleClose}>
+                <Alert onClose={handleClose} severity={alertType} sx={{ width: '100%' }}>
+                    <AlertTitle>{errorTitle}</AlertTitle>
+                    {toastMessage}
+                </Alert>
+            </Snackbar>
             <Sidebar style={{ position: 'absolute' }}></Sidebar>
             <Box sx={{ width: '100%', typography: 'body1', marginLeft: "200px", paddingRight: "400px", paddingTop: "50px" }}>
                 <TabContext value={value}>
                     <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
                         <TabList onChange={handleChange} aria-label="lab API tabs example">
-                            <Tab style={{color:"#adbac7"}} label="Matches" value="1" />
-                            <Tab style={{color:"#adbac7"}} label="Cinema" value="2" />
-                            <Tab style={{color:"#adbac7"}} label="Theatre" value="3" />
+                            <Tab style={{ color: "#adbac7" }} label="Matches" value="1" />
+                            <Tab style={{ color: "#adbac7" }} label="Cinema" value="2" />
+                            <Tab style={{ color: "#adbac7" }} label="Theatre" value="3" />
                         </TabList>
                     </Box>
                     <TabPanel value="1">

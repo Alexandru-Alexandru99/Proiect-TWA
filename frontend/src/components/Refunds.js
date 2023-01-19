@@ -60,6 +60,8 @@ export default function Refunds() {
         axios.post("http://localhost:5000/aprovematchticketrefund", {
             match_id: match_id,
             email: localStorage.getItem("email")
+        }, {
+            withCredentials: true
         })
             .then(res => {
                 console.log(res.data);
@@ -73,6 +75,8 @@ export default function Refunds() {
         axios.post("http://localhost:5000/aprovecinematicketrefund", {
             cinema_id: cinema_id,
             email: localStorage.getItem("email")
+        }, {
+            withCredentials: true
         })
             .then(res => {
                 console.log(res.data);
@@ -86,6 +90,8 @@ export default function Refunds() {
         axios.post("http://localhost:5000/aprovetheatreticketrefund", {
             theatre_id: theatre_id,
             email: localStorage.getItem("email")
+        }, {
+            withCredentials: true
         })
             .then(res => {
                 console.log(res.data);

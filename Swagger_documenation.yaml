@@ -1,0 +1,658 @@
+---
+openapi: 3.0.0
+info:
+  title: EventsNOC API
+  description: |
+    This is a web application designed for purchasing different types of tickets (Cinema, Sport, Theatre, etc.)
+  termsOfService: http://localhost:3000/terms
+  contact:
+    email: eventsnoc2023@gmail.com
+  version: 1.0.0
+servers:
+- url: https://virtserver.swaggerhub.com/BURSUCALEXMTA/EventsNOC/1.0.0
+  description: SwaggerHub API Auto Mocking
+- url: http://localhost:3000/
+  description: EventsNOC API for purchasing online tickets
+- url: http://localhost:3000/
+tags:
+- name: login/logout
+  description: These are Sign in/Sign out pages
+- name: register
+  description: This is the Sign Up page
+- name: profile
+  description: This is user profile page
+- name: shop
+  description: This page is designed to see tickets and buy them
+- name: refunds
+  description: This is refunds page
+- name: adminusers
+  description: Operations about user and tickets
+- name: transactions
+  description: This is transactions page
+- name: manageEvents
+  description: Operations about events
+paths:
+  /login:
+    get:
+      tags:
+      - login/logout
+      summary: Logs user into the app
+      operationId: loginUser
+      parameters:
+      - name: email
+        in: query
+        description: The email for login
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      - name: password
+        in: query
+        description: The password for login
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: successful operation
+          headers:
+            X-Rate-Limit:
+              description: calls per hour allowed by the user
+              style: simple
+              explode: false
+              schema:
+                type: integer
+                format: int32
+            X-Expires-After:
+              description: date in UTC when token expires
+              style: simple
+              explode: false
+              schema:
+                type: string
+                format: date-time
+          content:
+            application/json:
+              schema:
+                type: string
+            application/xml:
+              schema:
+                type: string
+        "400":
+          description: Invalid email/password supplied
+  /logout:
+    get:
+      tags:
+      - login/logout
+      summary: Logs out current logged in user session
+      operationId: logoutUser
+      responses:
+        default:
+          description: successful operation
+  /register:
+    get:
+      tags:
+      - register
+      summary: Register user into the app
+      operationId: registerUser
+      parameters:
+      - name: email
+        in: query
+        description: The email for register
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      - name: password
+        in: query
+        description: The password for register
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      - name: confirm_password
+        in: query
+        description: The confirm password for register
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      - name: firstname
+        in: query
+        description: The firstname for register
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      - name: lastname
+        in: query
+        description: The lastname for register
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: successful operation
+        "400":
+          description: Invalid fields supplied
+  /profile:
+    get:
+      tags:
+      - profile
+      summary: Get user info - tickets purchased
+      operationId: getUserStatus
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Profile'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Profile'
+        "400":
+          description: Server error
+  /profile/{ticketID}:
+    post:
+      tags:
+      - profile
+      summary: For validation ticket by ID
+      description: For valid response try integer IDs with positive integer value.\ \ Negative or non-integer values will generate API errors
+      operationId: deleteTicket
+      parameters:
+      - name: ticketID
+        in: path
+        description: ID of the ticket that needs to be deleted
+        required: true
+        style: simple
+        explode: false
+        schema:
+          minimum: 1
+          type: integer
+          format: int64
+      responses:
+        "400":
+          description: Invalid ID supplied
+        "404":
+          description: Order not found
+  /shop:
+    get:
+      tags:
+      - shop
+      summary: Returns the list of tickets
+      description: Returns tickets
+      operationId: getTickets
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/MatchTicket'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/MatchTicket'
+        "400":
+          description: Server error
+      security:
+      - api_key: []
+    post:
+      tags:
+      - shop
+      summary: Place an order for a ticket
+      operationId: ticketOrder
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MatchTicket'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/MatchTicket'
+        "400":
+          description: Invalid Order
+  /refunds:
+    get:
+      tags:
+      - refunds
+      summary: Returns the refunds details
+      operationId: getRefunds
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Refunds'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Refunds'
+        "400":
+          description: Server error
+      security:
+      - api_key: []
+  /refunds/approve/{refundID}:
+    post:
+      tags:
+      - refunds
+      summary: Approve a refund
+      operationId: ApproveRefund
+      parameters:
+      - name: refundID
+        in: path
+        description: Refund ID to approve
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: integer
+          format: int64
+      responses:
+        "400":
+          description: Invalid ID supplied
+        "404":
+          description: Refund not found
+  /adminusers/{userInfo}:
+    post:
+      tags:
+      - adminusers
+      summary: Create user
+      description: This can only be done by the logged in admin.
+      operationId: createUser
+      parameters:
+      - name: userInfo
+        in: path
+        description: User info that needs to be completed by admin
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      requestBody:
+        description: Created user object
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+        required: true
+      responses:
+        default:
+          description: successful operation
+  /adminusers/{adminInfo}:
+    post:
+      tags:
+      - adminusers
+      summary: Create admin
+      description: This can only be done by the logged in admin.
+      operationId: createAdmin
+      parameters:
+      - name: adminInfo
+        in: path
+        description: Admin info that needs to be completed
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      requestBody:
+        description: Created admin object
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+        required: true
+      responses:
+        default:
+          description: successful operation
+  /adminusers/{email}:
+    delete:
+      tags:
+      - adminusers
+      summary: Delete user by email
+      description: This can only be done by the logged in admin.
+      operationId: deleteUser
+      parameters:
+      - name: email
+        in: path
+        description: The email that needs to be deleted
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      responses:
+        "400":
+          description: Invalid email supplied
+        "404":
+          description: User not found
+  /transactions:
+    get:
+      tags:
+      - transactions
+      summary: Returns the transaction details
+      operationId: getTransactions
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Transactions'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Transactions'
+        "400":
+          description: Server error
+      security:
+      - api_key: []
+  /manageEvents:
+    get:
+      tags:
+      - manageEvents
+      summary: Returns the events details
+      operationId: getEvents
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Events'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Events'
+        "400":
+          description: Server error
+      security:
+      - api_key: []
+    post:
+      tags:
+      - manageEvents
+      summary: Add a new event to the store
+      operationId: addEvent
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Events'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Events'
+        "405":
+          description: Invalid input
+  /manageEvents/{eventInfo}:
+    put:
+      tags:
+      - manageEvents
+      summary: Update number of tickets
+      operationId: addtickets
+      parameters:
+      - name: eventInfo
+        in: path
+        description: Info of the ticket
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      - name: Number of tickets
+        in: query
+        description: The new number of tickets
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: integer
+          format: int32
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Events'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Events'
+        "405":
+          description: Invalid input
+components:
+  schemas:
+    MatchTicket:
+      type: object
+      properties:
+        Date:
+          type: string
+          format: date-time
+        Team 1:
+          type: string
+        Team 2:
+          type: string
+        Ticket Price:
+          type: integer
+          format: int32
+        Number of tickets:
+          type: integer
+          format: int32
+        Action:
+          type: string
+      xml:
+        name: ticket
+    CinemaTicket:
+      type: object
+      properties:
+        Date:
+          type: string
+          format: date-time
+        Film:
+          type: string
+        Genre:
+          type: string
+        Lead studio:
+          type: string
+        Year:
+          type: integer
+          format: int32
+        Ticket price:
+          type: integer
+          format: int32
+        Number of tickets:
+          type: integer
+          format: int32
+        Action:
+          type: string
+      xml:
+        name: ticket
+    TheatreTicket:
+      type: object
+      properties:
+        Date:
+          type: string
+          format: date-time
+        Name:
+          type: string
+        Place:
+          type: string
+        Type:
+          type: string
+        Ticket price:
+          type: integer
+          format: int32
+        Number of tickets:
+          type: integer
+          format: int32
+        Action:
+          type: string
+      xml:
+        name: ticket
+    Profile:
+      required:
+      - Action
+      - Team1
+      - Team2
+      - Tickets bought
+      - event-date
+      type: object
+      properties:
+        Event date:
+          type: string
+        Team 1:
+          type: string
+        Team 2:
+          type: string
+        Tickets bought:
+          type: integer
+          format: int32
+        Action:
+          type: string
+    Refunds:
+      type: object
+      properties:
+        Email:
+          type: string
+        Tickets bought:
+          type: integer
+          format: int32
+        Status:
+          type: string
+        Action:
+          type: string
+      xml:
+        name: refund
+    User:
+      type: object
+      properties:
+        Register date:
+          type: string
+          format: date-time
+        First name:
+          type: string
+        Last name:
+          type: string
+        Email address:
+          type: string
+        Action:
+          type: string
+      xml:
+        name: user
+    Transactions:
+      type: object
+      properties:
+        Event date:
+          type: string
+          format: date-time
+        Team 1:
+          type: string
+        Team 2:
+          type: string
+        Email address:
+          type: string
+        Tickets bought:
+          type: integer
+          format: int32
+      xml:
+        name: transactions
+    Events:
+      type: object
+      properties:
+        Date:
+          type: string
+          format: date-time
+        Team 1:
+          type: string
+        Team 2:
+          type: string
+        Ticket price:
+          type: integer
+          format: int32
+        Number of tickets:
+          type: integer
+          format: int32
+        Action:
+          type: string
+      xml:
+        name: events
+    ApiResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+          format: int32
+        type:
+          type: string
+        message:
+          type: string
+  requestBodies:
+    profile:
+      description: Pet object that needs to be added to the store
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Profile'
+        application/xml:
+          schema:
+            $ref: '#/components/schemas/Profile'
+      required: true
+    UserArray:
+      description: List of user object
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              $ref: '#/components/schemas/Profile'
+      required: true
+  securitySchemes:
+    petstore_auth:
+      type: oauth2
+      flows:
+        implicit:
+          authorizationUrl: http://localhost:3000
+          scopes:
+            write:events: modify events in app
+            read:events: read events appw
+    api_key:
+      type: apiKey
+      name: api_key
+      in: header

@@ -134,9 +134,9 @@ const Sidebar = () => {
       <Button clicked={click} onClick={() => handleClick()}>
       </Button>
       <SidebarContainer>
-        <Logo>
+        {/* <Logo>
           <img src={logo} alt="logo" />
-        </Logo>
+        </Logo> */}
         <SlickBar clicked={click}>
           <Item
             onClick={() => setClick(false)}
