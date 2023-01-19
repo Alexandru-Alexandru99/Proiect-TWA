@@ -32,7 +32,7 @@ from typing import Any
 
 # Configure Flask, Database, JWT:
 app = Flask(__name__)
-mongodb_url = "mongodb+srv://Alex:bNVk2mpFHV3yFQ2@twa.vqdjrmf.mongodb.net/TWAdb?retryWrites=true&w=majority"
+mongodb_url = "mongodb+srv://Alex:"+"@twa.vqdjrmf.mongodb.net/TWAdb?retryWrites=true&w=majority"
 database = pymongo.MongoClient(mongodb_url)
 
 # If true this will only allow the cookies that contain your JWTs to be sent
@@ -40,7 +40,7 @@ database = pymongo.MongoClient(mongodb_url)
 app.config["JWT_COOKIE_SECURE"] = False
 app.config["JWT_COOKIE_CSRF_PROTECT"] = False
 app.config["JWT_TOKEN_LOCATION"] = ["cookies"]
-app.config["JWT_SECRET_KEY"] = "bNVk2mpFHV3yFQ2"  # Change this in your code!
+app.config["JWT_SECRET_KEY"] = ""  # Change this in your code!
 app.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(hours=1)
 
 CORS(app, supports_credentials=True)
